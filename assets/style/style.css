@@ -15,8 +15,12 @@ body {
     color: #ffffff;
 }
 
+/* .header ul{
+    display: inline;
+} */
+
 .header h1 {
-    display: inline-block;
+    /* display: inline-block; */
     font-size: 48px;
 }
 
@@ -37,7 +41,7 @@ body {
 }
 
 .header content ul li {
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
 }
 
